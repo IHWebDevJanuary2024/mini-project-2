@@ -1,0 +1,14 @@
+#middle-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10vh 0;
+    height: 80vh;
+    width: 100vw;
+}
+
+#content-section {
+    height: 100%;
+    width: 80%;
+    background-color: blueviolet;
+}
